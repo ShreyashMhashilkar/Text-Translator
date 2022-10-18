@@ -6,12 +6,24 @@ Steps to follow:
 
 1)Install django using the command
 
-```pip install django```
+```
+
+pip install django
+
+```
 
 2)Install googletrans using the command
 
-```pip install googletrans==4.0.0-rc1```
+```
+
+pip install googletrans==4.0.0-rc1
+
+```
 
 3)Run the below command to start the project
 
-```python manage.py runserver```
+```
+
+python manage.py runserver
+
+```
